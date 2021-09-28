@@ -18,5 +18,5 @@ hello.text : Hello Git
 hello.text : Hello Git
 hello.text : Hello Git
 hello.text : Hello Git
-hello.text : Hello Git
+hello.text : Hello Git	master test
 hello.text : Hello Git
