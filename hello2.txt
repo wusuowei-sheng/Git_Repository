@@ -1,0 +1,6 @@
+这是分支一hot-fix的第二个文件：hello2.txt
+
+以下是测试内容
+
+Hello Git， Hello World！
+666666666666666666666666
